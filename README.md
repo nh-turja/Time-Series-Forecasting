@@ -1,4 +1,4 @@
-# Time-Series-Forecasting
+# Time-Series-Forecasting (Energy Consumption Prediction)
 
 This project predicts energy consumption in buildings with time-series hourly meter readings based on usage and observed weather for one year.<br/>
 With better estimates of these energy-saving investments, large scale investors and financial institutions will be more inclined to invest to enable progress in building efficiencies.
